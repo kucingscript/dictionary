@@ -95,3 +95,9 @@ body {
   margin-top: 60px;
   text-align: center;
 }
+
+@media screen and (max-width: 576px) {
+  .container {
+    padding: 40px 25px;
+  }
+}
